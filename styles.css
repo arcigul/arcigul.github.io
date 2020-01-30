@@ -1,0 +1,24 @@
+/* style guide
+*primary color: slategrey
+*secondary color: coral
+*/
+h1{
+  color: coral;   
+  font-family: Impact, "roboto", sans-serif;
+  font-size: 48-px
+}
+
+
+
+p {
+  color: slategrey;
+}
+  /* typography 
+*primary Font: Bangers
+*/
+
+img {
+  width:100%;
+}
+
+
