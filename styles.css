@@ -1,24 +1,22 @@
-/* style guide
-*primary color: slategrey
-*secondary color: coral
-*/
-h1{
-  color: coral;   
-  font-family: Impact, "roboto", sans-serif;
-  font-size: 48-px
+
+body {background-color:black;}
+h1 {
+  background-color:yellow;   
+  font-family: helvetica, sans-serif;
+  font-size: 70px;
+  text-align:rcenter;
 }
+li {font-family:helvetica, sans-serif;
+  color:white;}
 
 
 
-p {
-  color: slategrey;
+
+p { font-family:helvetica, sans-serif;
+  font-size:20px;
+  color: white;}
+  
+img {width:75%;
+    align:center;
 }
-  /* typography 
-*primary Font: Bangers
-*/
-
-img {
-  width:100%;
-}
-
 
