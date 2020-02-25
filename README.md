@@ -1,22 +1,19 @@
-![selfie](IMG_0137.PNG)
+# arcigul.github.io
+arcigul
 
-# Bio
-I am student at Eastern Washington University majoring in Visual Communication Design. I focus on photography and Digital Illustarations as my way of self expression.
-## Descriptors
-*Energetic
-*Creative
-*Fire Nation
-*Quirky
-*adventurous 
+## style tile
 
-# Colors 
-  *forrest green
-  *black
-  *Tan
-# Fonts
-[Montserrat](https://fonts.google.com/selection?selection.family=Montserrat)
 
-[poppins] (https://fonts.googlea.com/selection?selection.family=Poppins)
+## styletile
+#### color 
+*primary color: DodgeBlue
+*secondary color: Yellow
+*tritary: Red
 
-# Imagery 
+## references 
+* [normalize](https://necolas.github.io/normalize.css/)
+* [ google fonts](https://fonts.google.com/specimen/Montserrat)
 
+### typography
+* primary font: fira code
+* secondary font: helvetica
