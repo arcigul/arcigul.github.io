@@ -1,22 +1,23 @@
 
-body {background-color:green;}
+body {background-color:whitesmoke;}
 h1 {
   background-color:yellow;   
-  font-family: helvetica, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 70px;
   text-align:center;
+  display: inline-flex;
 }
-li {font-family:helvetica, sans-serif;
+li {font-family: 'helvetica', sans-serif;
   color:white;}
 
 
 
 
-p { font-family: 'Poppins', sans-serif;
+p { font-family: 'helvetica', sans-serif;
   font-size:20px;
   color: white;
   text-align: center;
-  font-display: inline-block;
+  font-display: inline-flex;
 } 
   
 img {width:300px;
