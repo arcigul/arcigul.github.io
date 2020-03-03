@@ -6,6 +6,7 @@ h1 {
   text-align:center;
   display: flex;
   justify-content: center;
+  
 }
 li {font-family: 'helvetica', sans-serif;
   color:black;}
@@ -22,7 +23,7 @@ p { font-family: 'helvetica', sans-serif;
   
 img {width:300px;
     box-align:center;
-    border-radius: 50%;
+    border-radius: 100%;
     box-shadow: grey;
 }
 
