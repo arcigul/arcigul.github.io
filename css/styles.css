@@ -6,7 +6,6 @@ h1 {
   text-align:center;
   display: flex;
   justify-content: center;
-  top:5%;
 }
 li {font-family: 'helvetica', sans-serif;
   color:black;}
