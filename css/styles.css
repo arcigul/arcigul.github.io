@@ -23,7 +23,7 @@ p { font-family: 'helvetica', sans-serif;
   
 img {width:300px;
     box-align:center;
-    border-radius: 200px;
+    border-radius: 50%;
     box-shadow: grey;
 }
 
