@@ -8,12 +8,16 @@ h1 {
   width: 100%;
   height: 200%;
   z-index: -1;
-  background: whitesmoke;
+  background: grey;
   border-style: solid;
+  align:center;
   
 }
 li {font-family: 'helvetica', sans-serif;
-  color:black;}
+  color:black;
+align:center;
+
+}
 
 
 
